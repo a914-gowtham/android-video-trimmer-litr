@@ -21,10 +21,10 @@ import androidx.core.content.ContextCompat;
 
 import com.cocosw.bottomsheet.BottomSheet;
 import com.example.videotrimmer_litr.R;
-import com.gowtham.library.utils.CompressOption;
-import com.gowtham.library.utils.LogMessage;
-import com.gowtham.library.utils.TrimType;
-import com.gowtham.library.utils.TrimVideo;
+import com.videotrimmer.library.utils.CompressOption;
+import com.videotrimmer.library.utils.LogMessage;
+import com.videotrimmer.library.utils.TrimType;
+import com.videotrimmer.library.utils.TrimVideo;
 
 import java.io.File;
 
@@ -101,7 +101,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private void openTrimActivity(String data) {
         if (trimType == 0) {
+            LogMessage.v("Valasdd "+data);
             TrimVideo.activity(data)
+                    .setHideSeekBar(true)
                     .setCompressOption(new CompressOption(3)) //pass empty constructor for default compress option
                     .setDestination("/storage/emulated/0/DCIM/TESTFOLDER")
                     .start(this);

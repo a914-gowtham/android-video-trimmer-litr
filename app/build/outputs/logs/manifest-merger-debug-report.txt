@@ -1,22 +1,22 @@
 -- Merging decision tree log ---
 provider#androidx.core.content.FileProvider
-INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:26:9-34:20
+INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:26:9-34:20
 	android:grantUriPermissions
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:30:13-47
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:30:13-47
 	android:authorities
-		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:28:13-64
+		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:28:13-64
 	android:exported
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:29:13-37
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:27:13-62
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:27:13-62
 manifest
-ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:2:1-37:12
+ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:2:1-37:12
 MERGED from [androidx.multidex:multidex:2.0.1] /home/gowtham/.gradle/caches/transforms-2/files-2.1/2a128b5c171616a288ac379e0b3202ea/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
-MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/gowtham/.gradle/caches/transforms-2/files-2.1/73327337a728e12c5c3cdecdb4b7e327/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.2.1] /home/gowtham/.gradle/caches/transforms-2/files-2.1/7e5b6cf970b6ee458e94f0de4554e685/material-1.2.1/AndroidManifest.xml:17:1-24:12
 MERGED from [com.crystal:crystalrangeseekbar:1.1.3] /home/gowtham/.gradle/caches/transforms-2/files-2.1/0dcba0083ea340ba0bd5379707f4b1fa/jetified-crystalrangeseekbar-1.1.3/AndroidManifest.xml:2:1-17:12
@@ -60,43 +60,43 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gowtham/.gradle/
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/gowtham/.gradle/caches/transforms-2/files-2.1/1435e0b5216c3fd72a2d6579c29d3ee1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/gowtham/.gradle/caches/transforms-2/files-2.1/035487676af6db782633ffbdc1d98b21/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/gowtham/.gradle/caches/transforms-2/files-2.1/3fd5b4b866d23b43b0e15439a0ee99e7/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:2:1-37:12
 	package
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:3:5-44
-		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
-		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
+		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:2:1-37:12
-		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
+		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:2:1-37:12
-		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
+		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:6:5-80
-MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-80
-MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-80
+ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:6:5-80
+MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-80
+MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-80
 	android:name
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:6:22-77
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:6:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:7:5-81
-MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
-MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:7:22-78
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.CAMERA
-ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:8:5-65
+ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:8:5-65
 	android:name
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:8:22-62
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:8:22-62
 application
-ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:10:5-35:19
-MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
-MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:10:5-35:19
+MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/gowtham/.gradle/caches/transforms-2/files-2.1/73327337a728e12c5c3cdecdb4b7e327/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/gowtham/.gradle/caches/transforms-2/files-2.1/73327337a728e12c5c3cdecdb4b7e327/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.2.1] /home/gowtham/.gradle/caches/transforms-2/files-2.1/7e5b6cf970b6ee458e94f0de4554e685/material-1.2.1/AndroidManifest.xml:22:5-20
@@ -116,43 +116,43 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/gowth
 MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/gowtham/.gradle/caches/transforms-2/files-2.1/259d6ac788dc5ebe081349befc6dd85e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/gowtham/.gradle/caches/transforms-2/files-2.1/259d6ac788dc5ebe081349befc6dd85e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
 	android:requestLegacyExternalStorage
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:16:9-52
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:16:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] /home/gowtham/.gradle/caches/transforms-2/files-2.1/8dbd859d1cd89239b42e7382b4fc40d7/core-1.3.1/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:14:9-54
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:17:9-40
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:17:9-40
 activity#com.gowtham.videotrimmer_litr.MainActivity
-ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:18:9-24:20
+ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:18:9-24:20
 	android:name
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:18:19-76
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:18:19-76
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:19:13-23:29
+ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:20:17-69
+ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:22:27-74
 uses-sdk
-INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
-INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
+INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
+INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
 MERGED from [androidx.multidex:multidex:2.0.1] /home/gowtham/.gradle/caches/transforms-2/files-2.1/2a128b5c171616a288ac379e0b3202ea/multidex-2.0.1/AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.1] /home/gowtham/.gradle/caches/transforms-2/files-2.1/2a128b5c171616a288ac379e0b3202ea/multidex-2.0.1/AndroidManifest.xml:20:5-43
-MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/gowtham/.gradle/caches/transforms-2/files-2.1/73327337a728e12c5c3cdecdb4b7e327/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/gowtham/.gradle/caches/transforms-2/files-2.1/73327337a728e12c5c3cdecdb4b7e327/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.2.1] /home/gowtham/.gradle/caches/transforms-2/files-2.1/7e5b6cf970b6ee458e94f0de4554e685/material-1.2.1/AndroidManifest.xml:20:5-44
@@ -239,36 +239,36 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/gowtham/.gradle/caches
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/gowtham/.gradle/caches/transforms-2/files-2.1/035487676af6db782633ffbdc1d98b21/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/gowtham/.gradle/caches/transforms-2/files-2.1/3fd5b4b866d23b43b0e15439a0ee99e7/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/gowtham/.gradle/caches/transforms-2/files-2.1/3fd5b4b866d23b43b0e15439a0ee99e7/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
-INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
+INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
+INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
-		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
+		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
+		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
-		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml
+		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
+		INJECTED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:31:13-33:57
+ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:31:13-33:57
 	android:resource
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:33:17-54
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:33:17-54
 	android:name
-		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/AndroidManifest.xml:32:17-67
+		ADDED from /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:32:17-67
 uses-permission#android.permission.ACCESS_MEDIA_LOCATION
-ADDED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-80
+ADDED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-80
 	android:name
-		ADDED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-77
-activity#com.gowtham.library.ui.ActVideoTrimmer
-ADDED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:56
+		ADDED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-77
+activity#com.videotrimmer.library.ui.ActVideoTrimmer
+ADDED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:56
 	android:screenOrientation
-		ADDED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-49
+		ADDED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-49
 	android:launchMode
-		ADDED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-44
+		ADDED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-44
 	android:theme
-		ADDED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-53
+		ADDED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-53
 	android:name
-		ADDED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-66
+		ADDED from [:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-71
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /home/gowtham/.gradle/caches/transforms-2/files-2.1/7eb80ae25c9b87b1525e03c4cd425467/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /home/gowtham/.gradle/caches/transforms-2/files-2.1/b455f6d9e51dde853b0e2859e2674da4/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:24:5-79

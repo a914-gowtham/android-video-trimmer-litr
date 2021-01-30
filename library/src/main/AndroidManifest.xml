@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.gowtham.library">
+    package="com.videotrimmer.library">
 
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
 
     <application>
-        <activity android:name=".ui.ActVideoTrimmer"
+
+        <activity android:name="com.videotrimmer.library.ui.ActVideoTrimmer"
             android:screenOrientation="portrait"
             android:launchMode="singleTask"
             android:theme="@style/VideoTrimmerTheme"/>

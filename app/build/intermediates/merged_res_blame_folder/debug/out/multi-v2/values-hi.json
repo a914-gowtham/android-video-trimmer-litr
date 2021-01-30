@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
+            "outputFile": "/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
             "map": [
                 {
                     "source": "/home/gowtham/.gradle/caches/transforms-2/files-2.1/8dbd859d1cd89239b42e7382b4fc40d7/core-1.3.1/res/values-hi/values-hi.xml",

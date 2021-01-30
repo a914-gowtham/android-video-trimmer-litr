@@ -1,29 +1,29 @@
-com/gowtham/library/utils/TrimVideo.java
- com.gowtham.library.utils.TrimVideo
- com.gowtham.library.utils.TrimVideo$ActivityBuilder
-com/gowtham/library/BuildConfig.java
- com.gowtham.library.BuildConfig
-com/gowtham/library/utils/CustomProgressView.java
- com.gowtham.library.utils.CustomProgressView
-com/gowtham/library/utils/TrimmerUtils.java
- com.gowtham.library.utils.TrimmerUtils
- com.gowtham.library.utils.TrimmerUtils$1
-com/gowtham/library/utils/TrimVideoOptions.java
- com.gowtham.library.utils.TrimVideoOptions
- com.gowtham.library.utils.TrimVideoOptions$1
-com/gowtham/library/ui/ActVideoTrimmer.java
- com.gowtham.library.ui.ActVideoTrimmer
- com.gowtham.library.ui.ActVideoTrimmer$1
- com.gowtham.library.ui.ActVideoTrimmer$2
- com.gowtham.library.ui.ActVideoTrimmer$3
-com/gowtham/library/utils/CustomProgress.java
- com.gowtham.library.utils.CustomProgress
-com/gowtham/library/utils/FileUtils.java
- com.gowtham.library.utils.FileUtils
-com/gowtham/library/utils/TrimType.java
- com.gowtham.library.utils.TrimType
-com/gowtham/library/utils/LogMessage.java
- com.gowtham.library.utils.LogMessage
-com/gowtham/library/utils/CompressOption.java
- com.gowtham.library.utils.CompressOption
- com.gowtham.library.utils.CompressOption$1
+com/videotrimmer/library/utils/FileUtils.java
+ com.videotrimmer.library.utils.FileUtils
+com/videotrimmer/library/utils/CustomProgressView.java
+ com.videotrimmer.library.utils.CustomProgressView
+com/videotrimmer/library/utils/TrimmerUtils.java
+ com.videotrimmer.library.utils.TrimmerUtils
+ com.videotrimmer.library.utils.TrimmerUtils$1
+com/videotrimmer/library/ui/ActVideoTrimmer.java
+ com.videotrimmer.library.ui.ActVideoTrimmer
+ com.videotrimmer.library.ui.ActVideoTrimmer$1
+ com.videotrimmer.library.ui.ActVideoTrimmer$2
+ com.videotrimmer.library.ui.ActVideoTrimmer$3
+com/videotrimmer/library/utils/CustomProgress.java
+ com.videotrimmer.library.utils.CustomProgress
+com/videotrimmer/library/utils/TrimType.java
+ com.videotrimmer.library.utils.TrimType
+com/videotrimmer/library/BuildConfig.java
+ com.videotrimmer.library.BuildConfig
+com/videotrimmer/library/utils/CompressOption.java
+ com.videotrimmer.library.utils.CompressOption
+ com.videotrimmer.library.utils.CompressOption$1
+com/videotrimmer/library/utils/TrimVideoOptions.java
+ com.videotrimmer.library.utils.TrimVideoOptions
+ com.videotrimmer.library.utils.TrimVideoOptions$1
+com/videotrimmer/library/utils/LogMessage.java
+ com.videotrimmer.library.utils.LogMessage
+com/videotrimmer/library/utils/TrimVideo.java
+ com.videotrimmer.library.utils.TrimVideo
+ com.videotrimmer.library.utils.TrimVideo$ActivityBuilder

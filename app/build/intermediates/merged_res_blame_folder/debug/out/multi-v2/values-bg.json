@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml",
+            "outputFile": "/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml",
             "map": [
                 {
                     "source": "/home/gowtham/.gradle/caches/transforms-2/files-2.1/d2683c294a6faf862fc748ae698dd972/jetified-exoplayer-ui-2.12.1/res/values-bg/values-bg.xml",
