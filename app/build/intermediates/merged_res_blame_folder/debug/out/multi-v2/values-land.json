@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/gowtham/.gradle/caches/transforms-2/files-2.1/7e5b6cf970b6ee458e94f0de4554e685/material-1.2.1/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,24,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,128,198,270,340,405,472,542,614,683,752,834,924,1000,1068,1135,1213,1278,1345,1517,1912",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,23,29,34",
+                        "endColumns": "72,69,71,69,64,66,69,71,68,68,81,89,75,67,66,77,64,66,10,10,10",
+                        "endOffsets": "123,193,265,335,400,467,537,609,678,747,829,919,995,1063,1130,1208,1273,1340,1512,1907,2176"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,24,25,26,30,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "264,337,407,479,549,614,681,751,823,892,961,1043,1133,1209,1277,1344,1572,1637,1704,1876,2271",
+                        "endLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,24,25,29,35,40",
+                        "endColumns": "72,69,71,69,64,66,69,71,68,68,81,89,75,67,66,77,64,66,10,10,10",
+                        "endOffsets": "332,402,474,544,609,676,746,818,887,956,1038,1128,1204,1272,1339,1417,1632,1699,1871,2266,2535"
+                    }
+                },
+                {
+                    "source": "/home/gowtham/.gradle/caches/transforms-2/files-2.1/44b21666f861b2b454523071d69d07d7/appcompat-1.2.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "/home/gowtham/.gradle/caches/transforms-2/files-2.1/493f061841dc6f3788ccab53526232da/jetified-bottomsheet-1.5.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,153",
+                        "endColumns": "45,51,51",
+                        "endOffsets": "96,148,200"
+                    },
+                    "to": {
+                        "startLines": "21,22,23",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1422,1468,1520",
+                        "endColumns": "45,51,51",
+                        "endOffsets": "1463,1515,1567"
+                    }
+                }
+            ]
+        }
+    ]
+}

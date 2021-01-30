@@ -1,0 +1,6 @@
+com/example/videotrimmer_litr/BuildConfig.java
+ com.example.videotrimmer_litr.BuildConfig
+com/gowtham/videotrimmer_litr/MainActivity.java
+ com.gowtham.videotrimmer_litr.MainActivity
+com/gowtham/videotrimmer_litr/SquareVideoView.java
+ com.gowtham.videotrimmer_litr.SquareVideoView

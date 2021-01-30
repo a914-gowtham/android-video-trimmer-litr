@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.linkedin.android.litr:litr:1.4.5@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9bdfb51d00cc40d76e68e16bd9af18ee/jetified-litr-1.4.5/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9bdfb51d00cc40d76e68e16bd9af18ee/jetified-litr-1.4.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9bdfb51d00cc40d76e68e16bd9af18ee/jetified-litr-1.4.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9bdfb51d00cc40d76e68e16bd9af18ee/jetified-litr-1.4.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.linkedin.android.litr/litr/1.4.5/a907aecd1b63fbf601aaecc820715efe1e2217a4/litr-1.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
