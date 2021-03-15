@@ -1,5 +1,5 @@
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
-[![](https://jitpack.io/v/a914-gowtham/Android-video-trimmer.svg)](https://jitpack.io/#a914-gowtham/android-video-trimmer-litr)
+[![](https://jitpack.io/v/a914-gowtham/android-video-trimmer-litr.svg)](https://jitpack.io/#a914-gowtham/android-video-trimmer-litr)
 
 # Android-video-trimmer
 
@@ -15,7 +15,7 @@
 + Add the dependency to your app `build.gradle` file
  ```gradle
  dependencies {
-    implementation 'com.github.a914-gowtham:android-video-trimmer-litr:1.5.3'
+    implementation 'com.github.a914-gowtham:android-video-trimmer-litr:1.5.11'
  }
  ```
  + Add to project's root `build.gradle` file:
@@ -103,6 +103,9 @@ TrimVideo.activity(videoUri)
   * Sample - Android Kitkat 4.4+ (API 19)
   
 ## ChangeLog
+### Version 1.5.11
+  * Write permission removed
+  
 ### Version 1.5.3
   * First version
   
