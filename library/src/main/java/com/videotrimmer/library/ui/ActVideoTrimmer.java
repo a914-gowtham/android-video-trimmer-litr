@@ -591,14 +591,14 @@ public class ActVideoTrimmer extends AppCompatActivity {
         @Override
         public void onCancelled(@NonNull String id, @Nullable List<TrackTransformationInfo> trackTransformationInfos) {
             LogMessage.v("onCancelled");
-            if (dialog.isShowing())
+            if (dialog != null && dialog.isShowing())
                 dialog.dismiss();
         }
 
         @Override
         public void onError(@NonNull String id, @Nullable Throwable cause, @Nullable List<TrackTransformationInfo> trackTransformationInfos) {
             LogMessage.v("onError " + cause);
-            if (dialog.isShowing())
+            if (dialog!=null && dialog.isShowing())
                 dialog.dismiss();
             runOnUiThread(() ->
                     Toast.makeText(ActVideoTrimmer.this, "Failed to trim", Toast.LENGTH_SHORT).show());
