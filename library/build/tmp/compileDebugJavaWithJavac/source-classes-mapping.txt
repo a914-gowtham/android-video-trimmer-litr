@@ -5,11 +5,8 @@ com/videotrimmer/library/utils/CustomProgressView.java
 com/videotrimmer/library/utils/TrimmerUtils.java
  com.videotrimmer.library.utils.TrimmerUtils
  com.videotrimmer.library.utils.TrimmerUtils$1
-com/videotrimmer/library/ui/ActVideoTrimmer.java
- com.videotrimmer.library.ui.ActVideoTrimmer
- com.videotrimmer.library.ui.ActVideoTrimmer$1
- com.videotrimmer.library.ui.ActVideoTrimmer$2
- com.videotrimmer.library.ui.ActVideoTrimmer$3
+com/videotrimmer/library/utils/LogMessage.java
+ com.videotrimmer.library.utils.LogMessage
 com/videotrimmer/library/utils/CustomProgress.java
  com.videotrimmer.library.utils.CustomProgress
 com/videotrimmer/library/utils/TrimType.java
@@ -22,8 +19,11 @@ com/videotrimmer/library/utils/CompressOption.java
 com/videotrimmer/library/utils/TrimVideoOptions.java
  com.videotrimmer.library.utils.TrimVideoOptions
  com.videotrimmer.library.utils.TrimVideoOptions$1
-com/videotrimmer/library/utils/LogMessage.java
- com.videotrimmer.library.utils.LogMessage
+com/videotrimmer/library/ui/ActVideoTrimmer.java
+ com.videotrimmer.library.ui.ActVideoTrimmer
+ com.videotrimmer.library.ui.ActVideoTrimmer$1
+ com.videotrimmer.library.ui.ActVideoTrimmer$2
+ com.videotrimmer.library.ui.ActVideoTrimmer$3
 com/videotrimmer/library/utils/TrimVideo.java
  com.videotrimmer.library.utils.TrimVideo
  com.videotrimmer.library.utils.TrimVideo$ActivityBuilder
