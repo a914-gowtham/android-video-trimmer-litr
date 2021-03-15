@@ -29,37 +29,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1559816-0ca8-4d33-bda7-33aa0bdc95e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_crystal_crystalrangeseekbar_1_1_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_crystal_crystalrangeseekbar_1_1_3_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_0.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_0.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/external_libs_dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/external_libs_dex/debug/mergeExtDexDebug/classes2.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BBnN6vwughdC8TdkP0ZvucInPu0=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BBnN6vwughdC8TdkP0ZvucInPu0=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/N12wrP3CipuFKWqow5T_6i_z4NA=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/N12wrP3CipuFKWqow5T_6i_z4NA=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/X3QSF1OJqU_9safo6IJhrG4HVZI=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/X3QSF1OJqU_9safo6IJhrG4HVZI=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/YCofgpoE3SQhUoo_kdDXOOA124U=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/YCofgpoE3SQhUoo_kdDXOOA124U=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rAy0yIMKUFm0MJB1wly4Kt8PuQA=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rAy0yIMKUFm0MJB1wly4Kt8PuQA=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BBnN6vwughdC8TdkP0ZvucInPu0=" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/BBnN6vwughdC8TdkP0ZvucInPu0=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/BBnN6vwughdC8TdkP0ZvucInPu0=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/N12wrP3CipuFKWqow5T_6i_z4NA=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/N12wrP3CipuFKWqow5T_6i_z4NA=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/X3QSF1OJqU_9safo6IJhrG4HVZI=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/X3QSF1OJqU_9safo6IJhrG4HVZI=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/YCofgpoE3SQhUoo_kdDXOOA124U=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/YCofgpoE3SQhUoo_kdDXOOA124U=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/rAy0yIMKUFm0MJB1wly4Kt8PuQA=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/rAy0yIMKUFm0MJB1wly4Kt8PuQA=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/BBnN6vwughdC8TdkP0ZvucInPu0=" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
@@ -194,10 +184,6 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/06d7e3c7fb5d49cadc2558a2c2b21035470e309dacb75b4d912eb24344d730b5_0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/06d7e3c7fb5d49cadc2558a2c2b21035470e309dacb75b4d912eb24344d730b5_1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/06d7e3c7fb5d49cadc2558a2c2b21035470e309dacb75b4d912eb24344d730b5_2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/06d7e3c7fb5d49cadc2558a2c2b21035470e309dacb75b4d912eb24344d730b5_3.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/videotrimmer_litr/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/videotrimmer_litr/BuildConfig.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/gowtham/videotrimmer_litr/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/gowtham/videotrimmer_litr/MainActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/gowtham/videotrimmer_litr/SquareVideoView.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/gowtham/videotrimmer_litr/SquareVideoView.dex" afterDir="false" />
@@ -343,15 +329,18 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zu_values-zu.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zu_values-zu.arsc.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/xml_provider_path.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/xml_provider_path.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gowtham/videotrimmer_litr/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/gowtham/videotrimmer_litr/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/generated/source/buildConfig/debug/com/gowtham/library/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/.transforms/0abe33c130a39f2483818196a57b2b6b.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/.transforms/0abe33c130a39f2483818196a57b2b6b/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/.transforms/cf7b7c350ed5ef46dab2b5bbbde0f237.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/.transforms/cf7b7c350ed5ef46dab2b5bbbde0f237/classes/classes.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/aar_main_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/annotations_typedef_file/debug/typedefs.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/compile_library_classes_jar/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/compile_library_classes_jar/debug/classes.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/compile_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/compile_r_class_jar/debug/R.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/debug/out/drawable-anydpi-v21_ic_done.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/debug/out/drawable-anydpi-v21_ic_done.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/debug/out/drawable-anydpi-v21_ic_launcher_background.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/debug/out/drawable-anydpi-v21_ic_launcher_background.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/debug/out/drawable-anydpi-v21_ic_video_play_lib.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/debug/out/drawable-anydpi-v21_ic_video_play_lib.xml.flat" afterDir="false" />
@@ -396,57 +385,28 @@
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/debug/out/layout_progress_dialog.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/debug/out/layout_progress_dialog.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/debug/out/layout_view_video_controller.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/debug/out/layout_view_video_controller.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/debug/out/menu_menu_done.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/compiled_local_resources/debug/out/menu_menu_done.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugAssets/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/BuildConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/ui/ActVideoTrimmer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/ui/ActVideoTrimmer$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/ui/ActVideoTrimmer$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/ui/ActVideoTrimmer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/utils/CompressOption$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/utils/CompressOption.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/utils/CustomProgress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/utils/CustomProgressView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/utils/FileUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/utils/LogMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/utils/TrimType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/utils/TrimVideo$ActivityBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/utils/TrimVideo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/utils/TrimVideoOptions$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/utils/TrimVideoOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/utils/TrimmerUtils$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/javac/debug/classes/com/gowtham/library/utils/TrimmerUtils.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/library_manifest/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/library_manifest/debug/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_manifests/debug/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/packaged_manifests/debug/output-metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/packaged_res/debug/layout/progress_dialog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/packaged_res/debug/layout/progress_dialog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/merged_consumer_proguard_file/debug/proguard.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/intermediates/merged_java_res/debug/out.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/runtime_library_classes_jar/debug/classes.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build/outputs/aar/library-debug.aar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/library/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/library/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/gowtham/library/ui/ActVideoTrimmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/videotrimmer/library/ui/ActVideoTrimmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/gowtham/library/utils/CompressOption.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/videotrimmer/library/utils/CompressOption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/gowtham/library/utils/CustomProgress.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/videotrimmer/library/utils/CustomProgress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/gowtham/library/utils/CustomProgressView.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/videotrimmer/library/utils/CustomProgressView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/gowtham/library/utils/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/videotrimmer/library/utils/FileUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/gowtham/library/utils/LogMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/videotrimmer/library/utils/LogMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/gowtham/library/utils/TrimType.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/videotrimmer/library/utils/TrimType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/gowtham/library/utils/TrimVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/videotrimmer/library/utils/TrimVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/gowtham/library/utils/TrimVideoOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/videotrimmer/library/utils/TrimVideoOptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/gowtham/library/utils/TrimmerUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/videotrimmer/library/utils/TrimmerUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/src/main/res/layout/progress_dialog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/layout/progress_dialog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/videotrimmer/library/ui/ActVideoTrimmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/videotrimmer/library/ui/ActVideoTrimmer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[RZ8N726NKCR]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[ZY2245WKZ3]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -464,11 +424,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-view/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/library/src/main/java/com/videotrimmer/library/utils/CustomProgress.java_SELECTED" value="CustomProgress" />
     <property name="android-custom-view/media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/java/com/example/videotrimmer_litr/SquareVideoView.java_SELECTED" value="SquareVideoView" />
     <property name="android-custom-view/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/java/com/gowtham/videotrimmer_litr/SquareVideoView.java_SELECTED" value="SquareVideoView" />
     <property name="android-custom-view/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/src/main/java/com/videotrimmer/library/utils/CustomProgress.java_SELECTED" value="CustomProgress" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="multi-representation-preview/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/library/src/main/java/com/videotrimmer/library/utils/CustomProgress.java_selected" value="Custom views" />
     <property name="multi-representation-preview/media/gowtham/Local Disk 3/Workspace/My Projects/VideoTrimmerlitr/app/src/main/java/com/example/videotrimmer_litr/SquareVideoView.java_selected" value="Custom views" />
     <property name="multi-representation-preview/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/java/com/gowtham/videotrimmer_litr/SquareVideoView.java_selected" value="Custom views" />
     <property name="multi-representation-preview/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/src/main/java/com/videotrimmer/library/utils/CustomProgress.java_selected" value="Custom views" />
@@ -574,6 +536,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1260" height="56" key="GridCell.Tab.0.bottom" timestamp="1612019752210">
@@ -592,5 +555,9 @@
       <screen x="60" y="27" width="1306" height="741" />
     </state>
     <state width="1260" height="56" key="GridCell.Tab.0.right/60.27.1306.741@60.27.1306.741" timestamp="1612019752210" />
+    <state x="401" y="136" width="621" height="522" key="find.popup" timestamp="1615833635078">
+      <screen x="58" y="27" width="1308" height="741" />
+    </state>
+    <state x="401" y="136" width="621" height="522" key="find.popup/58.27.1308.741@58.27.1308.741" timestamp="1615833635078" />
   </component>
 </project>

@@ -62,6 +62,7 @@ import com.linkedin.android.litr.io.MediaRange;
 import com.linkedin.android.litr.utils.CodecUtils;
 
 import java.io.File;
+import java.util.Calendar;
 import java.util.List;
 import java.util.Objects;
 import java.util.UUID;
@@ -104,7 +105,7 @@ public class ActVideoTrimmer extends AppCompatActivity {
 
     private long currentDuration, lastClickedTime;
 
-    private String outputPath, destinationPath, lastRequestId;
+    private String outputPath, lastRequestId;
 
     private int trimType;
 
@@ -214,7 +215,6 @@ public class ActVideoTrimmer extends AppCompatActivity {
             TrimVideoOptions trimVideoOptions = getIntent().getParcelableExtra(TrimVideo.TRIM_VIDEO_OPTION);
             assert trimVideoOptions != null;
             trimType = TrimmerUtils.getTrimType(trimVideoOptions.trimType);
-            destinationPath = trimVideoOptions.destination;
             fileName = trimVideoOptions.fileName;
             hidePlayerSeek = trimVideoOptions.hideSeekBar;
             compressOption = trimVideoOptions.compressOption;
@@ -227,13 +227,6 @@ public class ActVideoTrimmer extends AppCompatActivity {
                 maxToGap = trimVideoOptions.minToMax[1];
                 minFromGap = minFromGap != 0 ? minFromGap : totalDuration;
                 maxToGap = maxToGap != 0 ? maxToGap : totalDuration;
-            }
-            if (destinationPath != null) {
-                File outputDir = new File(destinationPath);
-                outputDir.mkdirs();
-                destinationPath = String.valueOf(outputDir);
-                if (!outputDir.isDirectory())
-                    throw new IllegalArgumentException("Destination file path error" + " " + destinationPath);
             }
         } catch (IllegalArgumentException e) {
             e.printStackTrace();
@@ -486,7 +479,8 @@ public class ActVideoTrimmer extends AppCompatActivity {
     private void trimVideo() {
         //not exceed given maxDuration if has given
         if (isValidVideo) {
-            outputPath = getFileName();
+            File outputFile=getOutputFile();
+            outputPath = String.valueOf(outputFile);
             LogMessage.v("outputPath::" + outputPath);
             LogMessage.v("sourcePath::" + uri);
             videoPlayer.setPlayWhenReady(false);
@@ -501,7 +495,7 @@ public class ActVideoTrimmer extends AppCompatActivity {
                         .build();
                 mediaTransformer.transform(
                         lastRequestId, realUri,
-                        getOutputFile().getPath(),
+                        outputFile.getPath(),
                         getVideoFormat(),
                         null,
                         transformListener,
@@ -611,41 +605,35 @@ public class ActVideoTrimmer extends AppCompatActivity {
         }
     };
 
+    private String getFileDateTime(){
+        Calendar calender = Calendar.getInstance();
+        return calender.get(Calendar.YEAR) + "_" +
+                calender.get(Calendar.MONTH) + "_" +
+                calender.get(Calendar.DAY_OF_MONTH) + "_" +
+                calender.get(Calendar.HOUR_OF_DAY) + "_"+
+                calender.get(Calendar.MINUTE) + "_"+
+                calender.get(Calendar.SECOND);
+    }
+
     private File getOutputFile() {
-        String path = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS) + "";
-        if (destinationPath != null)
-            path = destinationPath;
-        int fileNo = 0;
+        String path = getExternalFilesDir("Download").getPath();
         String fName = "trimmed_video_";
         if (fileName != null && !fileName.isEmpty())
             fName = fileName;
         File newFile = new File(path + File.separator +
-                (fName) + "." + TrimmerUtils.getFileExtension(this, uri));
-        while (newFile.exists()) {
-            fileNo++;
-            newFile = new File(path + File.separator +
-                    (fName + fileNo) + "." + TrimmerUtils.getFileExtension(this, uri));
-        }
+                (fName)+getFileDateTime() + "." + TrimmerUtils.getFileExtension(this, uri));
         return newFile;
     }
 
-    private String getFileName() {
-        String path = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS) + "";
-        if (destinationPath != null)
-            path = destinationPath;
-        int fileNo = 0;
+/*    private String getFileName() {
+        String path = getExternalFilesDir("Download").getPath();
         String fName = "trimmed_video_";
         if (fileName != null && !fileName.isEmpty())
             fName = fileName;
         File newFile = new File(path + File.separator +
-                (fName) + "." + TrimmerUtils.getFileExtension(this, uri));
-        while (newFile.exists()) {
-            fileNo++;
-            newFile = new File(path + File.separator +
-                    (fName + fileNo) + "." + TrimmerUtils.getFileExtension(this, uri));
-        }
+                (fName) +getFileDateTime()+ "." + TrimmerUtils.getFileExtension(this, uri));
         return String.valueOf(newFile);
-    }
+    }*/
 
     private void showProcessingDialog() {
         try {
@@ -667,10 +655,10 @@ public class ActVideoTrimmer extends AppCompatActivity {
 
     private boolean checkStoragePermission() {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
-            return checkPermission(Manifest.permission.WRITE_EXTERNAL_STORAGE,
+            return checkPermission(
                     Manifest.permission.READ_EXTERNAL_STORAGE, Manifest.permission.ACCESS_MEDIA_LOCATION);
         } else
-            return checkPermission(Manifest.permission.WRITE_EXTERNAL_STORAGE,
+            return checkPermission(
                     Manifest.permission.READ_EXTERNAL_STORAGE);
 
     }

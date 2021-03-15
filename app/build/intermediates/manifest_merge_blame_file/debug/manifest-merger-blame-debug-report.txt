@@ -6,88 +6,86 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
+8-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
+9-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-11-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:6:5-80
-11-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:6:22-77
-12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-12-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:7:5-81
-12-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:7:22-78
-13    <uses-permission android:name="android.permission.CAMERA" />
-13-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:8:5-65
-13-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:8:22-62
-14    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
-14-->[:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-80
-14-->[:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-77
-15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-15-->[com.google.android.exoplayer:exoplayer-core:2.12.1] /home/gowtham/.gradle/caches/transforms-2/files-2.1/7eb80ae25c9b87b1525e03c4cd425467/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:24:5-79
-15-->[com.google.android.exoplayer:exoplayer-core:2.12.1] /home/gowtham/.gradle/caches/transforms-2/files-2.1/7eb80ae25c9b87b1525e03c4cd425467/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:24:22-76
-16
-17    <application
-17-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:10:5-35:19
-18        android:name="androidx.multidex.MultiDexApplication"
-19        android:allowBackup="true"
-19-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:11:9-35
-20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-20-->[androidx.core:core:1.3.1] /home/gowtham/.gradle/caches/transforms-2/files-2.1/8dbd859d1cd89239b42e7382b4fc40d7/core-1.3.1/AndroidManifest.xml:24:18-86
-21        android:debuggable="true"
-22        android:icon="@mipmap/ic_launcher"
-22-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:12:9-43
-23        android:label="@string/app_name"
-23-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:13:9-41
-24        android:requestLegacyExternalStorage="true"
-24-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:16:9-52
-25        android:roundIcon="@mipmap/ic_launcher_round"
-25-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:14:9-54
-26        android:supportsRtl="true"
-26-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:15:9-35
+11-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:6:5-80
+11-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:6:22-77
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:7:5-65
+12-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:7:22-62
+13    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+13-->[:library] /media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-80
+13-->[:library] /media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-77
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.google.android.exoplayer:exoplayer-core:2.12.1] /home/gowtham/.gradle/caches/transforms-2/files-2.1/7eb80ae25c9b87b1525e03c4cd425467/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:24:5-79
+14-->[com.google.android.exoplayer:exoplayer-core:2.12.1] /home/gowtham/.gradle/caches/transforms-2/files-2.1/7eb80ae25c9b87b1525e03c4cd425467/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:24:22-76
+15
+16    <application
+16-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:9:5-34:19
+17        android:name="androidx.multidex.MultiDexApplication"
+18        android:allowBackup="true"
+18-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:10:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.3.1] /home/gowtham/.gradle/caches/transforms-2/files-2.1/8dbd859d1cd89239b42e7382b4fc40d7/core-1.3.1/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:11:9-43
+22        android:label="@string/app_name"
+22-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:12:9-41
+23        android:requestLegacyExternalStorage="true"
+23-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:15:9-52
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:13:9-54
+25        android:supportsRtl="true"
+25-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:14:9-35
+26        android:testOnly="true"
 27        android:theme="@style/AppTheme" >
-27-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:17:9-40
+27-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:16:9-40
 28        <activity android:name="com.gowtham.videotrimmer_litr.MainActivity" >
-28-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:18:9-24:20
-28-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:18:19-76
+28-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:17:9-23:20
+28-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:17:19-76
 29            <intent-filter>
-29-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:19:13-23:29
+29-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:18:13-22:29
 30                <action android:name="android.intent.action.MAIN" />
-30-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:20:17-69
-30-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:20:25-66
+30-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:19:17-69
+30-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:19:25-66
 31
 32                <category android:name="android.intent.category.LAUNCHER" />
-32-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:22:17-77
-32-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:22:27-74
+32-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:21:17-77
+32-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:21:27-74
 33            </intent-filter>
 34        </activity>
 35
 36        <provider
 37            android:name="androidx.core.content.FileProvider"
-37-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:27:13-62
+37-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:26:13-62
 38            android:authorities="com.example.videotrimmer_litr.fileprovider"
-38-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:28:13-64
+38-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:27:13-64
 39            android:exported="false"
-39-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:29:13-37
+39-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:28:13-37
 40            android:grantUriPermissions="true" >
-40-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:30:13-47
+40-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:29:13-47
 41            <meta-data
-41-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:31:13-33:57
+41-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:30:13-32:57
 42                android:name="android.support.FILE_PROVIDER_PATHS"
-42-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:32:17-67
+42-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:31:17-67
 43                android:resource="@xml/provider_path" />
-43-->/media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:33:17-54
+43-->/media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/app/src/main/AndroidManifest.xml:32:17-54
 44        </provider>
 45
 46        <activity
-46-->[:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:56
+46-->[:library] /media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-19:56
 47            android:name="com.videotrimmer.library.ui.ActVideoTrimmer"
-47-->[:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-71
+47-->[:library] /media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-71
 48            android:launchMode="singleTask"
-48-->[:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-44
+48-->[:library] /media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-44
 49            android:screenOrientation="portrait"
-49-->[:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-49
+49-->[:library] /media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-49
 50            android:theme="@style/VideoTrimmerTheme" />
-50-->[:library] /media/gowtham/Local Disk 3/Workspace/My Projects/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-53
+50-->[:library] /media/gowtham/Local Disk 3/My Workspace/android-video-trimmer-litr/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-53
 51    </application>
 52
 53</manifest>
